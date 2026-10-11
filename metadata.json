@@ -1,0 +1,6 @@
+{
+  "name": "NovaCut Pro",
+  "description": "Professional video editor for social media with advanced color grading, keyframe motion graphics, multi-track timeline, AI captions, effects, and trending audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
